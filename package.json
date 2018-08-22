@@ -1,5 +1,5 @@
 {
-  "name": "microbundle",
+  "name": "microbundle-matthewmueller",
   "version": "0.6.0",
   "description": "Zero-configuration bundler for tiny JS libs, powered by Rollup.",
   "main": "dist/microbundle.js",
